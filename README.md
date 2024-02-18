@@ -16,8 +16,8 @@ education:
     "Self-Taught Quantum Engineer and Physicist",
     "Bachelor's in Computer Science & Engineering",
     "Specialized in Cloud Computing",
+    "Chandigarh University, India"
   ]
-company: Soulber
 
 fields_of_interests:
   [
@@ -28,6 +28,7 @@ fields_of_interests:
     "Game Development",
     "DevOps",
   ]
+
 technical_background:
   [
     "DevOps Solutions Architect",
@@ -36,7 +37,7 @@ technical_background:
     "Intern - VLSI and FPGA Implementation",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: [""]
 2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 ```
