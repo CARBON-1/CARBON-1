@@ -62,7 +62,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 ---
+
 ### 🔥 &nbsp; My Stats :
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CARBON-1)](https://git.io/streak-stats)
 
 
