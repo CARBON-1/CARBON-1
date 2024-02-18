@@ -8,14 +8,14 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Rohan Desai
+located_in: Rajkot, Gujarat, India
+current_job: coming soon
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Quantum Engineer and Physicist",
+    "Bachelor's in Computer Science & Engineering",
+    "Specialized in Cloud Computing",
   ]
 company: Soulber
 
