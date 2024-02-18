@@ -53,6 +53,7 @@ hobbies:
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
 ### 🔥 &nbsp; My Stats :
@@ -72,9 +73,9 @@ Access it over here and subscribe to get updates -
 ---  
 
 ## Get in touch :coffee:
-LinkedIn - www.linkedin.com/in/one-ladybug
-Mail - rohandesai98244@protonmail.com
-Fiverr - www.fiverr.com/rohandesai98244
+LinkedIn - www.linkedin.com/in/one-ladybug <br>
+Mail - rohandesai98244@protonmail.com <br>
+Fiverr - www.fiverr.com/rohandesai98244 <br>
 
 ## Projects 🛠️
 
