@@ -60,7 +60,7 @@ hobbies:
 [![GitHub Streak](https://streak-stats.demolab.com?user=CARBON-1&theme=date-night&border_radius=0.7&date_format=M%20j%5B%2C%20Y%5D&card_width=700)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanDesai7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CARBON-1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### ✍️ Blog Posts : 
