@@ -1,45 +1,38 @@
 # Hey there :wave:
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Rohan Desai
 located_in: Rajkot, Gujarat, India
-current_job: coming soon
+current_job: Freelancer
 education:
   [
-    "Self-Taught Quantum Engineer and Physicist",
     "Bachelor's in Computer Science & Engineering",
     "Specialized in Cloud Computing",
-    "Chandigarh University, India"
+    "From Chandigarh University, India"
+  ]
+  [
+    "Self taught researcher in physics",
+    "For more information contact me"
   ]
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
+    "AWS Solutions Architecture",
+    "C++ | Qt",
+    "MERN stack",
     "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Astrophysics",
+    "Game theory"
   ]
   
-currently_learning: [""]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+2024 Goals: ["Complete 2 MAjor Projects and master the already acquired skill set."]
+hobbies:
+  [
+    "Movies - Denis Villeneuve, Christopher Nolan, Quentin Tarantino, Francis Ford Coppola",
+    "Music - Classical, Chorus, Retro Disco, Vintage, Ambience"
+  ]
 ```
 ---
 ### 🛠 &nbsp;Languages and Tools :
@@ -76,7 +69,9 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ---  
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
