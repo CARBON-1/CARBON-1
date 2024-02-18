@@ -77,10 +77,11 @@ LinkedIn - www.linkedin.com/in/one-ladybug <br>
 Mail - rohandesai98244@protonmail.com <br>
 Fiverr - www.fiverr.com/rohandesai98244 <br>
 
-## Projects 🛠️
+## Projects 🛠️ [will be displayed soon]
 
 Here are some of the projects I've been working on:
-
+[under development]
+<!--
 ### [Project Name 1](Link to Project)
 
 Description of the project and its significance.
@@ -110,6 +111,7 @@ Description of the project and its significance.
 - Technologies used: [List of Technologies]
 - Demo: [Link to Demo]
 - Source Code: [Link to Source Code]
+-->
 
 ## Contributions and Activity 🚩
 
