@@ -79,8 +79,8 @@ Fiverr - www.fiverr.com/rohandesai98244 <br>
 
 ## Projects 🛠️ [will be displayed soon]
 
-Here are some of the projects I've been working on:
-[under development]
+Here are some of the projects I've been working on: <br>
+[will be updated soon]
 <!--
 ### [Project Name 1](Link to Project)
 
