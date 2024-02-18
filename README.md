@@ -77,7 +77,7 @@ LinkedIn - www.linkedin.com/in/one-ladybug <br>
 Mail - rohandesai98244@protonmail.com <br>
 Fiverr - www.fiverr.com/rohandesai98244 <br>
 
-## Projects 🛠️ [will be displayed soon]
+## Projects 🛠️
 
 Here are some of the projects I've been working on: <br>
 [will be updated soon]
