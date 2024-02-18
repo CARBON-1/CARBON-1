@@ -190,6 +190,17 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 # Welcome to [Your Name]'s GitHub Profile 🚀
 
 ![Profile Banner](https://placeimg.com/800/200/tech)
@@ -216,6 +227,8 @@ Here are some of the projects I've been working on:
 
 Description of the project and its significance.
 
+- ![Project Screenshot](Link to Screenshot)
+- ![Project GIF](Link to GIF)
 - Technologies used: [List of Technologies]
 - Demo: [Link to Demo]
 - Source Code: [Link to Source Code]
@@ -224,6 +237,8 @@ Description of the project and its significance.
 
 Description of the project and its significance.
 
+- ![Project Screenshot](Link to Screenshot)
+- ![Project GIF](Link to GIF)
 - Technologies used: [List of Technologies]
 - Demo: [Link to Demo]
 - Source Code: [Link to Source Code]
@@ -232,6 +247,8 @@ Description of the project and its significance.
 
 Description of the project and its significance.
 
+- ![Project Screenshot](Link to Screenshot)
+- ![Project GIF](Link to GIF)
 - Technologies used: [List of Technologies]
 - Demo: [Link to Demo]
 - Source Code: [Link to Source Code]
@@ -285,5 +302,6 @@ Your support means a lot and keeps me motivated to continue creating and sharing
 
 Thank you for visiting my GitHub profile! Happy coding! 😊👩‍💻🚀
 
+---
 
-
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your_username.your_repo_name)
