@@ -13,7 +13,7 @@ education:
     "From Chandigarh University, India"
   ]
   [
-    "Self taught researcher in physics",
+    "Self taught researcher in particle physics & astrophysics",
     "For more information contact me"
   ]
 
@@ -24,7 +24,7 @@ fields_of_interests:
     "MERN stack",
     "UI/UX",
     "Astrophysics",
-    "Game theory"
+    "Mathematics [Game theory]"
   ]
   
 2024 Goals: ["Complete 2 Major Projects and master the already acquired skill set."]
