@@ -27,7 +27,7 @@ fields_of_interests:
     "Game theory"
   ]
   
-2024 Goals: ["Complete 2 MAjor Projects and master the already acquired skill set."]
+2024 Goals: ["Complete 2 Major Projects and master the already acquired skill set."]
 
 hobbies:
   [
@@ -66,9 +66,9 @@ hobbies:
 ---
 
 ### ✍️ Blog Posts : 
-Access my blogs on my research and development on ideation of a new phase of life.
-This blog contains my learning and implementation journey of astrophysics and it's related fields.
-Access it over here and subscribe to get updates - 
+Access my blogs on my research and development on ideation of a new phase of life.<br>
+This blog contains my learning and implementation journey of astrophysics and it's related fields.<br>
+Access it over here and subscribe to get updates - blog.1ladybug.com
 
 ---  
 
@@ -112,10 +112,6 @@ Description of the project and its significance.
 - Demo: [Link to Demo]
 - Source Code: [Link to Source Code]
 -->
-
-## Contributions and Activity 🚩
-
-- Empty as of now, working on personal projects currently, soon would be contributing to other projects too.
 
 ---
 
