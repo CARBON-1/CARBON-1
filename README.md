@@ -103,8 +103,7 @@ Description of the project and its significance.
 - Technologies used: [List of Technologies]
 - Demo: [Link to Demo]
 - Source Code: [Link to Source Code]
--->
--->
+
 
 ---
 
