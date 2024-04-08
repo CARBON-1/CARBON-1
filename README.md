@@ -1,5 +1,5 @@
 # Привет! :wave:
-
+<!--
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
@@ -103,6 +103,7 @@ Description of the project and its significance.
 - Technologies used: [List of Technologies]
 - Demo: [Link to Demo]
 - Source Code: [Link to Source Code]
+-->
 -->
 
 ---
