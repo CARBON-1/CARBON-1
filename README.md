@@ -26,14 +26,6 @@ fields_of_interests:
     "Astrophysics",
     "Mathematics [Game theory]"
   ]
-  
-2024 Goals: ["Complete 2 Major Projects and master the already acquired skill set."]
-
-hobbies:
-  [
-    "Movies - Denis Villeneuve, Christopher Nolan, Quentin Tarantino, Francis Ford Coppola",
-    "Music - Classical, Chorus, Retro Disco, Vintage, Ambience"
-  ]
 ```
 ---
 ### 🛠 &nbsp;Languages and Tools :
